@@ -1,6 +1,6 @@
-# CODSOFT Front End projects - level1
+# CODSOFT Web Development projects - level1
 
-Level 1 Projects | Internship | Front End Development
+Level 1 Projects | Internship | Web Development
 
 Project 1 - Portfolio website
 (HTML | CSS )
